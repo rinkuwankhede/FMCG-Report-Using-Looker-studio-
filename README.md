@@ -15,4 +15,23 @@
 
    Which region and channel combination is the most profitable?
 
-   How did our sales perform month-by-month across 3 years? 
+   How did our sales perform month-by-month across 3 years?
+
+3. Tech Stack -
+   * Looker studio (data studio) – Main data visualization platform used for report creation and 
+     interactive dashboard design.
+   * Calculated Fields – Used for calculated measures, key performance indicators (KPIs).
+   * File Format – Excel --> Google sheets migration
+
+5.  Features / Highlights - GOAL OF THE DASHBOARD - Designed and published a 2-page interactive sales analytics dashboard using Looker Studio, processing 190,757 
+    FMCG transactions (£19.9M revenue) from a chilled food manufacturer across 3 years, 5 product categories, 14 brands, and 3 distribution channels.
+
+    Walkthrough of Key Visuals - 
+    * Built Page 1 with 4 KPI scorecard cards, 4 charts (time series, 2 bar charts , donut), and 3 interactive filter controls.
+    * Built Page 2 (Advanced Analysis) with 5 Calculated Fields — including Promotion Label (CASE WHEN formula), Revenue Per Unit (Revenue/units_sold), Delivery  
+      Performance tier (5-level CASE classification), Year extraction (YEAR() function), and Stock Status availability.
+    * Implemented Year-over-Year trend comparison (2022 vs 2023 vs 2024) using Breakdown Dimension with the Year calculated field.
+      
+  
+      
+
