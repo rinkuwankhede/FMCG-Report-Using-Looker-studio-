@@ -31,6 +31,8 @@
     * Built Page 2 (Advanced Analysis) with 5 Calculated Fields — including Promotion Label (CASE WHEN formula), Revenue Per Unit (Revenue/units_sold), Delivery  
       Performance tier (5-level CASE classification), Year extraction (YEAR() function), and Stock Status availability.
     * Implemented Year-over-Year trend comparison (2022 vs 2023 vs 2024) using Breakdown Dimension with the Year calculated field.
+
+      https://datastudio.google.com/reporting/7af234e1-928a-4ffb-9dc5-e5c723ff9b09
       
   
       
