@@ -32,7 +32,7 @@
       Performance tier (5-level CASE classification), Year extraction (YEAR() function), and Stock Status availability.
     * Implemented Year-over-Year trend comparison (2022 vs 2023 vs 2024) using Breakdown Dimension with the Year calculated field.
 
-6.  Screenshot - ![FMCG 1 PAGE ](https://github.com/rinkuwankhede/FMCG-Report-Using-Looker-studio-/blob/main/FMCG%20.png)
+6.  Screenshot - ![FMCG 1 PAGE ](https://github.com/rinkuwankhede/FMCG-Report-Using-Looker-studio-/blob/main/FMCG%20Page%201.png)
                  ![FMCG 2 PAGE ](https://github.com/rinkuwankhede/FMCG-Report-Using-Looker-studio-/blob/main/Advanced%20sales%20analysis%20FMCG.png)
 
 
